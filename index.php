@@ -1,0 +1,394 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <!-- style sheet -->
+  <link rel="stylesheet" type="text/css" href="http://localhost/glampeverest/style/style.css">
+  <!-- font -->
+  <link href="https://fonts.googleapis.com/css?family=Raleway&display=swap" rel="stylesheet">
+  <!--font awesome -->
+  <link rel="stylesheet" type="text/css" href="plugins/font-awesome-4.7.0/css/font-awesome.min.css"  >
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.css">
+
+  <title>Hello, world!</title>
+</head>
+<body>
+  <div class="container header-nev" >
+    <nav class="navbar navbar-expand-lg " >
+      <a class="navbar-brand" href="#"><img src="http://localhost/glampeverest/image/glamp-everest1.png" class="img-fluid" style="height: 70px;margin-left: -30px;"></a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" style="border:1px solid rgb(107, 201, 202) ;">
+        <i class=" navbar-toggler fa fa-bars" style="color: rgb(107, 201, 202)!important;"></i>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav ml-auto  "  >
+          <li class="nav-item active">
+            <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              About us
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="#">What is glamping?</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#">Blog</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#">Career</a>
+            </div>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Events
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="#">Birthday/Anniversary (Surprises)</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#">Open theater cinema</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#">Live Singing</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#">Driving retreat</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#">Corporate Outings</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#">Romantic Dinner Date</a>
+            </div>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#" >Contact</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#" >Franchise</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link booking_button" href=""><span>Book now</span></a>
+          </li>
+        </ul>
+
+      </div>
+    </nav>
+  </div>
+
+  <!-- header slider -->
+
+  <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+    <div class="carousel-inner" style="">
+      <div class="carousel-item active">
+        <img src="img/BeautyPlus_20200404200025910_save.jpg" class="d-block w-100 img-fluid" alt="..." style="height: 70vh;line-height: 50vh;">
+      </div>
+      <div class="carousel-item">
+        <img src="img/himachal2.jpg" class="d-block w-100 img-fluid" alt="..." style="height: 70vh;">
+      </div>
+      <div class="carousel-item">
+        <img src="img/BeautyPlus_20200404200459001_save.jpg" class="d-block w-100 img-fluid" alt="..." style="height: 70vh;">
+      </div>
+      <div class="carousel-item">
+        <img src="img/himanchal12.jpg" class="d-block w-100 img-fluid" alt="..." style="height: 70vh;">
+      </div>
+    </div>
+  </div>
+
+  <!-- Discription -->
+
+  <section class="py-md-5 py-3 Discription">
+    <div class="container text-center">
+      <h1 style="color: rgb(107, 201, 202);font-size: 3.2rem;line-height: 3rem">let's do Glamping with India's first Glamping franchise!!</h1>
+      <h2 style="line-height: 2rem">Explore wonders of solitude & wildness with Glamp Everest!<br>Glamer and comfort served exotically- In wild!</h2>
+      <p style="font-size: 1.1rem;">Experience a dramatic fusion of country side camping and luxurious comfort, blended together in our uniquely designed glamps, a quiet sky and starry nights, fine waterfront landscapes, an inspiring and creative common area, delicious in-house dining with music and solitary vibes, and artistically decorated private luxurious Glamps.</p>
+      <p style="font-size: 1.1rem;">Our glamorous glamps claim all royal pleasures offered right into the heart of wild, away from conventional crowded getaway spots. A classic spacious bamboo washroom, comfortable linens and king-size beds, personalized decor, campfire, music, and most importantly a peace of mind- we have it all so that you can unplug and reconnect with your true-self. As is said- Nature heals and nature binds, come discover yourself!</p>
+      <p style="font-size: 1.1rem;">Complimentary trek and water fall in the premises provide an unparalleled experience with a sense of profound connection to people and nature.</p>
+      <p style="font-size: 1.1rem;"><strong>**Get OUTSIDE TOGETHER™ at Glamp Everest**</strong></p>
+    </div>
+  </section>
+
+
+                          <hr class="mb-5" style="size: 40px;">
+
+  <!-- Features -->
+
+  <div class="py-md-3 py-3">
+    <div class="container" style="position: relative;">
+
+     <div class="card-deck">
+      <div class="card">
+        <img onerror="this.onerror=null;this.src='https://static.glampinghub.com/img/glamping-770x474.ac9969d4.png'" alt="" class="card-img-top w-100 img-fluid" style="height:232px;" 
+        src="image/IMG-20191016-WA0008.jpg">
+        <div class="card-img-overlay text-center py-1 px-3" style="position:absolute;font-size:15px;background:rgba(0,20,19,.85);width:100%;height:30px;top-auto;right: 0;bottom: 0;left: 0;margin-top:58%;">
+          <div class="" style="color:white;font-weight: 600!important;">
+            PUNE
+          </div>
+        </div>
+        <div class="card-body text-center">
+          <h3 class="card-title">Beautiful and Romantic Glamping Tent Rentals with Modern Interior in Pune , Maharashtra</h3>
+          <p class="card-text"><i class="fa fa-map-marker" aria-hidden="true"></i> Thakursai Gevhande Khadak Pavananagar - Kamshet Rood</p>
+          <h4 class="card-text mt-2">
+            <i class="fa fa-star" aria-hidden="true" style="color:#d4b03b;"></i>
+            <i class="fa fa-star" aria-hidden="true" style="color:#d4b03b;"></i>
+            <i class="fa fa-star" aria-hidden="true" style="color:#d4b03b;"></i>
+            <i class="fa fa-star" aria-hidden="true" style="color:#d4b03b;"></i>
+            <i class="fa fa-star" aria-hidden="true" style="color:#d4b03b;"></i>
+            <span class="ml-5 mt-1"><i class="fa fa-inr" aria-hidden="true"></i> 2400/<small>night</small></span>
+          </h4>
+
+        </div>
+      </div>
+      <div class="card">
+
+        <img onerror="this.onerror=null;this.src='https://static.glampinghub.com/img/glamping-770x474.ac9969d4.png'" alt="" class="card-img-top w-100" style="height:232px;"
+        src="img/himalayas.jpg">
+        <div class="card-img-overlay text-center py-1 px-3" style="position:absolute;font-size:15px;background:rgba(0,20,19,.85);width:100%;height:30px;top-auto;right: 0;bottom: 0;left: 0;margin-top:58%;">
+          <div class="" style="color:white;font-weight: 600!important;">
+            HIMACHAL
+          </div>
+        </div>
+        <div class="card-body text-center">
+          <h3 class="card-title">Beautiful and Romantic Glamping Tent Rentals with Modern Interior in HIMACHAL PRADESH</h3>
+          <p class="card-text"><i class="fa fa-map-marker" aria-hidden="true"></i> COMING.. SOON..!</p>
+          <h4 class="card-text mt-2 d-none">
+            <i class="fa fa-star" aria-hidden="true" style="color:#d4b03b;"></i>
+            <i class="fa fa-star" aria-hidden="true" style="color:#d4b03b;"></i>
+            <i class="fa fa-star" aria-hidden="true" style="color:#d4b03b;"></i>
+            <i class="fa fa-star" aria-hidden="true" style="color:#d4b03b;"></i>
+            <i class="fa fa-star" aria-hidden="true" style="color:#d4b03b;"></i>
+            <span class="ml-5 mt-1"><i class="fa fa-inr" aria-hidden="true"></i> 2400/<small>night</small></span>
+          </h4>
+
+        </div>
+      </div>
+      <div class="card">
+
+        <img onerror="this.onerror=null;this.src='https://static.glampinghub.com/img/glamping-770x474.ac9969d4.png'" alt="" class="card-img-top w-100" 
+        src="image/goa.jpg">
+        <div class="card-img-overlay text-center py-1 px-3" style="position:absolute;font-size:15px;background:rgba(0,20,19,.85);width:100%;height:30px;top-auto;right: 0;bottom: 0;left: 0;margin-top:58%;">
+          <div class="" style="color:white;font-weight: 600!important;">
+            GOA
+          </div>
+        </div>
+        <div class="card-body text-center">
+          <h3 class="card-title">Beautiful and Romantic Glamping Tent Rentals with Modern Interior in GOA</h3>
+          <p class="card-text"><i class="fa fa-map-marker" aria-hidden="true"></i> COMING.. SOON..!</p>
+          <h4 class="card-text mt-2 d-none">
+            <i class="fa fa-star" aria-hidden="true" style="color:#d4b03b;"></i>
+            <i class="fa fa-star" aria-hidden="true" style="color:#d4b03b;"></i>
+            <i class="fa fa-star" aria-hidden="true" style="color:#d4b03b;"></i>
+            <i class="fa fa-star" aria-hidden="true" style="color:#d4b03b;"></i>
+            <i class="fa fa-star" aria-hidden="true" style="color:#d4b03b;"></i>
+            <span class="ml-2 mt-1"><i class="fa fa-inr" aria-hidden="true"></i> 2400/<small>night</small></span>
+          </h4>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!--Special occasions-->
+
+
+<div class="Special occasions py-md-5 py-3">
+  <div class="container" style="position: relative;">
+    <h1 class="text-center mb-md-5 mb-4"><u><strong>Special occasions / Upcoming events </strong></u></h1>
+    <div class="row text-center">
+      <div class="col-lg-3 col-12 ">
+        <div class="card text-white  mb-3" style="">
+          <div class="img-fluid card-header" style="background-image:url('image/IMG-20200130-WA0038.jpg');background-size:100% 100%;height:250px">
+
+            <h4 class="card-text text-white d-none d-sm-none d-md-none d-lg-block">Romantice dinner</h4>
+            <p class="d-block d-sm-block d-md-block d-lg-none" style="color:white;padding-top:30%;font-size:25px;">Romantice dinner</p>
+
+          </div>
+
+
+        </div>
+        
+      </div>
+      <div class="col-lg-3 col-12">
+       <div class="card text-white  mb-3" style="">
+         <div class="img-fluid card-header" style="background-image:url('image/IMG-20191225-WA0028.jpg');background-size:100% 100%;height:250px">
+
+          <h4 class="card-text text-white d-none d-sm-none d-md-none d-lg-block">Open theatre</h4>
+          <p class="d-block d-sm-block d-md-block d-lg-none" style="color:white;padding-top:30%;font-size:25px;">Open theatre</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-3 col-12">
+     <div class="card text-white  mb-3" style="">
+       <div class="img-fluid card-header" style="background-image:url('image/IMG-20191221-WA0047.jpg');background-size:100% 100%;height:250px">
+
+        <h4 class="card-text text-white d-none d-sm-none d-md-none d-lg-block">Corporate Outings</h4>
+        <p class="d-block d-sm-block d-md-block d-lg-none" style="color:white;padding-top:30%;font-size:25px;">Corporate Outings</p>
+      </div>
+    </div>
+  </div>
+  <div class="col-lg-3 col-12">
+    <div class="card text-white  mb-3" style="">
+      <div class="img-fluid card-header" style="background-image:url('image/IMG-20191221-WA0044.jpg');background-size:100% 100%;height:250px">
+
+        <h4 class="card-text text-white d-none d-sm-none d-md-none d-lg-block">Team Gathering</h4>
+        <p class="d-block d-sm-block d-md-block d-lg-none" style="color:white;padding-top:30%;font-size:25px;">Team Gathering</p>  
+      </div>
+    </div>
+  </div>
+  <div class="col-lg-3 col-12">
+    <div class="card text-white  mb-3" style="">
+      <div class="img-fluid card-header" style="background-image:url('image/IMG-20191221-WA0044.jpg');background-size:100% 100%;height:250px">
+
+        <h4 class="card-text text-white d-none d-sm-none d-md-none d-lg-block">Live Singing</h4>
+        <p class="d-block d-sm-block d-md-block d-lg-none" style="color:white;padding-top:30%;font-size:25px;">Live Singing</p>  
+      </div>
+    </div>
+  </div>
+  <div class="col-lg-3 col-12">
+    <div class="card text-white  mb-3" style="">
+      <div class="img-fluid card-header" style="background-image:url('image/IMG-20191221-WA0044.jpg');background-size:100% 100%;height:250px">
+
+        <h4 class="card-text text-white d-none d-sm-none d-md-none d-lg-block">Birthday/Anniversary (Surprises)</h4>
+        <p class="d-block d-sm-block d-md-block d-lg-none" style="color:white;padding-top:30%;font-size:25px;">Birthday/Anniversary (Surprises)</p>  
+      </div>
+    </div>
+  </div>
+
+
+</div>
+</div>
+</div>
+
+                           <hr class="" style="size: 40px;">
+
+<!-- Footer -->
+
+<footer class="footer">
+  <div class="footer_content">
+    <div class="container">
+      <div class="row">
+        <div class="col">
+          <div class="footer_logo_container text-center">
+            <a href="#"></a>
+            <div>
+              <a href="#">
+                <img class="animated flip" src="http://localhost/glampeverest/image/glamp-everest1.png" style="height:100px;width: auto;">
+              </a>
+            </div>
+            <div>since 2018</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="row footer_row mt-5">
+
+
+        <div class="col-lg-3">
+          <div class="footer_title">Info</div>
+          <div class="row pt-3">
+            <div class="col-6">
+              <a href="Booking.php" ><p style="font-size: 15px;color: #212529;">Booking</p></a>
+            </div>
+            <div class="col-6">
+              <a href="FAQ's.html" ><p style="font-size: 15px;color: #212529;">FAQ's</p></a>
+            </div>
+          </div>
+          <div class="row pt-2">
+            <div class="col-6">
+              <a href="Policy.html"><p style="font-size: 15px;color: #212529;">Privacy Policy</p></a>
+            </div>
+            <div class="col-6">
+              <a href="about.html"><p style="font-size: 15px;color: #212529;">About us</p></a>
+            </div>
+          </div>
+          <div class="row pt-2">
+            <div class="col-6">
+              <a href="#" class="" style="color: #212529;"><p>Franchise</p></a>
+            </div>
+            <div class="col-6 d-none">
+              <a href="Glamp.html" style="color: #212529;"><p>Glamp</p></a>
+            </div>
+          </div>
+
+        </div>
+
+        <!-- Reservations -->
+        <div class="col-lg-3">
+          <div class="footer_title">Reservations</div>
+          <div class="footer_list">
+            <ul style="list-style: none;margin: 1rem;">
+              <a href="tel:+91-7905834769" class="" style="color: #212529;text-decoration: none;">
+                <li>Tel:+91-7905834769</li>
+              </a>
+              <a href="tel:+91-7888649112" class="" style="color: #212529;text-decoration: none;">
+                <li class="">Tel:+91-7888649112</li>
+              </a>
+              <a href="mailto:glampeverest2k18@gmail.com" class="" style="color: #212529;text-decoration: none;">
+                <li>Info@glampeverest.com</li>
+              </a>
+            </ul>
+          </div>
+
+        </div>
+
+
+        <!-- Newsletter -->
+        <div class="col-lg-3">
+          <div class="footer_title">SUBSCRIBE</div>
+          <div class="newsletter_container">
+            <form action="#" class="newsletter_form" id="newsletter_form">
+              <input type="email" class="newsletter_input" placeholder="Your email address" required="required">
+              <button class="newsletter_button animated bounceInRight">Subscribe</button>
+            </form>
+          </div>
+        </div>
+
+        <!-- Footer icons -->
+        <div class="col-lg-3">
+          <div class="footer_title">SOCIAL</div>
+          <div class="footer_list">
+            <div class="social_icon py-md-4 py-3" style="">
+              <a href="https://www.facebook.com/glampeverest2115/" class="facebook mr-2">
+                <i class="fa fa-facebook"></i>
+              </a>
+              <a href="https://www.instagram.com/glampeverest" target="" class="mr-2" >
+                <i class="fa  fa-instagram" style=""></i>
+              </a>    
+
+              <a href="" target="" class="mr-2">
+                <i class="fa  fa-google"></i>
+              </a>
+              <a href="" class="d-none" target="">
+                <i class="fa  fa-linkedin"></i>
+              </a>   
+            </div>
+          </div>
+          <!-- Address -->
+          <div class="footer_title">Our Address</div>
+          <div class="footer_list">
+            <ul>
+              <li>Thakursai Gevhande Khadak</li>
+              <li>Pavananagar - Kamshet Rood </li>
+              <li>Pune , Maharashtra</li>
+              <li>Pin - 410406</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+</div>
+
+</footer>
+</div>
+
+<!-- Optional JavaScript -->
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+</body>
+<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+</html>
